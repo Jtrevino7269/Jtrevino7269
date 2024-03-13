@@ -2,8 +2,8 @@
 
 <h2>👨‍💻 Data Analytical Projects:</h2>
 
-- <b> Dashboard(AlgoExpert)</b>
-  - [Add Link)
+- <b> [British Airways Dashboard Review](https://public.tableau.com/views/BritishAirwaysReview_17103501030780/Dashboard1?:language=en-US&publish=yes&:sid=&:display_count=n&:origin=viz_share_link&:device=desktop)</b>
+   - Interactive Dashboard in Tableau that allows end user to pick specific metrics and in return, displays an animated dashboard of Reviews, Number of Reviews and much more.
 
 
 <h2>Certifications:</h2>
